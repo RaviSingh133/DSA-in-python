@@ -1,6 +1,6 @@
 # Data Structures and Algorithms (DSA) in Python
 
-This repository contains a comprehensive collection of Data Structures and Algorithms implemented in Python. The project is designed for students, developers, and anyone looking to strengthen their understanding of DSA concepts.
+This repository provides a collection of code implementations for various Data Structures and Algorithms (DSA) in Python. The project is designed as a resource for developers and students who are looking to understand or revise the core concepts of DSA through practical code examples.
 
 ## Contents
 * Sorting Algorithms: Implementations of quick sort, merge sort, bubble sort, and more.
